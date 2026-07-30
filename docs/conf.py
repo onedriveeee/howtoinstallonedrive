@@ -1,5 +1,4 @@
-project = 'How To Install Onedrive
-'
+project = 'How To Install Onedrive'
 author = 'Your Name'
 release = '1.0'
 
